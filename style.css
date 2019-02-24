@@ -5,10 +5,25 @@ body {
 
 h1 {
 
-    font-size: 15pt;
+    font-size: 35pt;
+    text-align: center;
+    font-family: 'Lobster', cursive !important;
 }
 
 h3 {
 
     font-size: 20pt;
+    font-family: 'Lobster', cursive !important;
+}
+
+.mepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+metext {
+
+    text-align: center;
 }
